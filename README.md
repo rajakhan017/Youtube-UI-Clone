@@ -3,7 +3,7 @@
 ## [Live Website Link!]https://rajakhan017.github.io/Youtube-UI-Clone/
 
 ### Structure of the web page
-<img src="./webpage.png" width="700px" alt="structure of the webpage"  />
+img src="./webpage.png" width="700px" alt="structure of the webpage"  />
 
 ---
 
